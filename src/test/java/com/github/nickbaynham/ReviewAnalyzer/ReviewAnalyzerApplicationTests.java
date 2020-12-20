@@ -1,7 +1,7 @@
 package com.github.nickbaynham.ReviewAnalyzer;
 
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Assert.*;
+import org.junit.Assert.*;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
